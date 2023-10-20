@@ -14,10 +14,12 @@ module.exports = {
 			...colors,
 			offwhite: "#FFFBFC",
 			offblack: "#121212",
+			grey: "#1D1D1D",
+			outline: "#3D3D3D",
 			green: "#00A55E",
 			purple: "#5946B2",
 			red: "#CC2500",
-			yellow: "#F9A826"
+			gold: "#F9A826",
 		}
 	},
 	plugins: []

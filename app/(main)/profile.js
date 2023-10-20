@@ -21,7 +21,7 @@ export default function Page() {
 					width={'w-[60px]'}
 					height={'h-[60px]'}
 					iconSize={35}
-			
+
 				>
 				</Button>
 			</StyledView>
